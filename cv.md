@@ -1,16 +1,13 @@
 # Kirill Mazov
----
 ## Contacts
----
 - Location: Tbilisi, Georgia
 - Phone: +995591034825
 - Email: mazovkv@gmail.com
 - GitHub: [QastTheLast](https://github.com/QastTheLast)
+[//]: # (Hello)
 ## About Me
----
 I Hi, I'm Kirill, a front-end developer with a UX/UI background. I bridge design and code, crafting user-friendly, visually appealing websites. Proficient in HTML, CSS, and JavaScript, I create seamless digital experiences. Let's collaborate to build engaging, high-quality web solutions.
 ## Skills
----
 - HTML
 - CSS
 - JavaScript
@@ -18,8 +15,8 @@ I Hi, I'm Kirill, a front-end developer with a UX/UI background. I bridge design
 - Figma
 - Adobe Photoshop
 - Adobe Illustrator
+[//]: # (Hello)
 ## Code Example
----
 ```
 const convertText = (text) => {
   if (text === '') {
@@ -31,11 +28,11 @@ const convertText = (text) => {
 };
 ```
 ## Education
----
 - Russian New University
    + Linguistics
 - Courses:
    - HTML and CSS Tutorials on the w3schools (completed)
+[//]: # (Hello)
 ## Languages
 - Russian - native
 - English - B2 (Upper-Intermediate)
